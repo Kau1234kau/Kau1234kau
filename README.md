@@ -11,5 +11,7 @@
 - 📫 Adoro ler livros de fatos reais
 - 😄 Sou muito intenssa em tudo q faço
 - ⚡ Atualmente me encontro na melhor fase da minha vida...
---Pretendo fazer medissina veterinaria...
-Estou em relacinamento serio
+--
+    Pretendo fazer medissina veterinaria...
+
+     Estou em relacinamento serio
